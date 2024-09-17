@@ -19,7 +19,7 @@
 //Welcome to tPrint by ToNk! a library to make your life a tiny bit easier! This is a short documentation.
 // 
 // INSTALLATION
-//		Upon placing the 'tPrint_0.3.h' file in an appropriate folder, include it inside of your main .cpp file by using #include 'tPrint_0.3'
+//		Upon placing the 'tArray_0.3.h' file in an appropriate folder, include it inside of your main .cpp file by using #include 'tPrint_0.3'
 //		Next, create a class object by writing 'tPrinter p1' ('tPrinter [any name you want]')
 //		to use the functions use your obejct name and cal the function from there
 // 
